@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT) mit.edu
 
 Copyright (c) 2016 - present Mario Nebl
 
